@@ -21,4 +21,4 @@ They showcase full-stack applications, API design, and real-world use cases.
 
 ## 📫 Contact
 - GitHub: https://github.com/G-SF
-- LinkedIn: (se tiver, coloca aqui)
+- LinkedIn: https://www.linkedin.com/in/gssf
