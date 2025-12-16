@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Gabriel
 
-Senior-leaning Full Stack Engineer focused on building scalable web applications and clean architectures.
+Senior-leaning and Teach leadh - Full Stack Engineer focused on building scalable web applications and clean architectures.
 
 ## 🚀 Tech Stack
 - **Frontend:** React, TypeScript, Next.js
